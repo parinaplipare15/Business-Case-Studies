@@ -1,0 +1,54 @@
+Insights:
+
+1. A Two-sample Independent T-test on weekdays and weekends with respect to count,implies that the mean population count of both categories are the same. Thus, the demand for the rented bikes is the same on weekdays and weekends.
+
+2. A One-Way ANOVA test on different seasons with respect to count,implies that population count means under different seasons are not the same, meaning there is a difference in the usage of Yulu bikes across different seasons.
+
+3. By performing a One-Way ANOVA test on different weather conditions except 4 with respect to count, we can infer that population count means under different weather conditions are not the same, meaning there is a difference in the usage of Yulu bikes across different weather conditions.
+
+4. By performing a Chi-squared contingency test on season and weather (categorical variables), we can infer that there is an impact on weather dependent on season.
+
+5. The maximum number of holidays can be seen during the fall and winter seasons.
+
+6. There is a positive corelation between count and temperature.
+
+7. There is a negative corelation between count and humidity.
+
+8. More number of rented bikes when weather is clear with less clouds, proved by annova hypothesis test.
+
+9. The usage of Yulu bikes is lesser during extreme weather conditions like Heavy Rain + Ice Pellets + Thunderstorm + Mist, Snow + Fog.
+
+10. The usage of Yulu bikes is more on working days.
+
+11. The usage of Yulu bikes is lesser when the temp is less than 10 or humidity is less than 20.
+
+12. The usage of Yulu bikes is lesser when windspeed is greater than 40.
+
+
+
+
+
+Recommendations:
+
+1. As the usage of Yulu is more during summer and fall seasons, so Yulu should make sure that the number of bikes available should be more than usual at the Yulu stations.
+
+2. As the demand for the Yulu bikes is the same for weekdays and weekends, so company should keep special peak timing offers and high availability of yulu bikes which will boost the customer bookings.
+
+3. Since the demand for rented bikes is different across different weather conditions so Yulu should perform the customer profiling as per weather conditions which will help the company to come up with new product features.
+
+4. Since the demand for the rented bikes is different across different seasons so Yulu should come up with special seasonal offerings which will help to retain the active customers. Also, can keep special student discounts during summers and during school hours to attract student customer base.
+
+5. As casual users are very less Yulu should focus on marketing startegy to bring more customers. for eg. first time user discounts, friends and family
+discounts, referral bonuses, budget friendly plans, etc.
+
+6. On non working days as count is very low Yulu can think on the promotional activities like city exploration activities, some health campaigns etc. to spread the awareness about the Yulu bikes.
+
+7. In heavy rains as rented bike count is very low Yulu can introduce a different vehicle such as car or having shade or have protection from the rain for Yulu.
+
+8. The registered users count is very high as compared to casual ones so Yulu should offer good renewal plans to these customers.
+
+
+
+
+
+
