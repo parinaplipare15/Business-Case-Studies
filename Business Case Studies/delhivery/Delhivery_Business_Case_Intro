@@ -86,3 +86,12 @@ package delivery
 23. segment_osrm_distance – This is the OSRM distance. Distance covered by subset of
 the package delivery
 24. segment_factor – Unknown field
+
+
+What is expected?
+
+The company wants to understand and process the data coming out of data engineering
+pipelines:
+● Clean, sanitize and manipulate data to get useful features out of raw fields
+● Make sense out of the raw data and help the data science team to build forecasting
+models on it.
